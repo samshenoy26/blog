@@ -1,0 +1,12 @@
+== README
+
+
+This is a web-app for creating and posting articles.
+
+Ruby version: 2.2.4
+
+Rails version: 4.2.6
+
+SQLite version: 3.8.7.2
+	Connected to a transient in-memmory database.
+
